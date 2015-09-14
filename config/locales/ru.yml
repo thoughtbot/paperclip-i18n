@@ -1,0 +1,20 @@
+ru:
+  errors:
+    messages:
+      in_between: "должен быть между %{min} и %{max}"
+      spoofed_media_type: "имеет содержимое, не соответствующее заявленному"
+
+  number:
+    human:
+      storage_units:
+        format: "%n %u"
+        units:
+          byte:
+            few: "Байта"
+            many: "Байт"
+            one: "Байт"
+            other: "Байта"
+          gb: "ГБ"
+          kb: "КБ"
+          mb: "МБ"
+          tb: "ТБ"
