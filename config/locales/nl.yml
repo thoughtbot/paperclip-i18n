@@ -1,0 +1,18 @@
+nl:
+  errors:
+    messages:
+      in_between: "waarde moet tussen de %{min} en %{max} liggen"
+      spoofed_media_type: "heeft content die niet overeenkomt met wat is opgegeven"
+
+  number:
+    human:
+      storage_units:
+        format: "%n %u"
+        units:
+          byte:
+            one:   "Byte"
+            other: "Bytes"
+          kb: "KB"
+          mb: "MB"
+          gb: "GB"
+          tb: "TB"
