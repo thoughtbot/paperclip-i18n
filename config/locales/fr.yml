@@ -1,4 +1,4 @@
-en:
+fr:
   errors:
     messages:
       in_between: "doit être compris entre %{min} et %{max}"
