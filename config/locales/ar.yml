@@ -1,0 +1,22 @@
+ar:
+  errors:
+    messages:
+      in_between: "يجب أن يكون %{min} و %{max}"
+      spoofed_media_type: "يحتوي على محتوى غير مطابق عما هو مذكور"
+
+  number:
+    human:
+      storage_units:
+        format: "%n %u"
+        units:
+          byte:
+            zero: "بايت"
+            one: "واحد بايت"
+            two: "بايتين اثنين"
+            few: "بايت"
+            many: "بايتًا"
+            other: "بايتات"
+          kb: "كيلوبايت"
+          mb: "ميحابايت"
+          gb: "غيغابايت"
+          tb: "تيرابايت"
