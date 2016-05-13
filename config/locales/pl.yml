@@ -1,0 +1,20 @@
+pl:
+  errors:
+    messages:
+      in_between: "musi być pomiędzy %{min} a %{max}"
+      spoofed_media_type: "zawiera treść, która nie odpowiada temu, jaka powinna być"
+
+  number:
+    human:
+      storage_units:
+        format: "%n %u"
+        units:
+          byte:
+            one: "bajt"
+            few: "bajty"
+            many: "bajtów"
+            other: "bajty"
+          kb: "KB"
+          mb: "MB"
+          gb: "GB"
+          tb: "TB"
