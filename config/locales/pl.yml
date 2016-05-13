@@ -2,7 +2,7 @@ pl:
   errors:
     messages:
       in_between: "musi być pomiędzy %{min} a %{max}"
-      spoofed_media_type: "zawiera treść, która nie odpowiada temu, jak powinna być"
+      spoofed_media_type: "zawiera treść, która nie odpowiada temu, jaka powinna być"
 
   number:
     human:
