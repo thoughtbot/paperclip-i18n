@@ -1,0 +1,19 @@
+vi:
+  errors:
+    messages:
+      in_between: "phải ở khoảng giữa %{min} và %{max}"
+      spoofed_media_type: "có nội dung không phù hợp"
+
+  number:
+    human:
+      storage_units:
+        format: "%n %u"
+        units:
+          byte:
+            one:   "Byte"
+            other: "Bytes"
+          kb: "KB"
+          mb: "MB"
+          gb: "GB"
+          tb: "TB"
+
