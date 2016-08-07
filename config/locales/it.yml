@@ -1,0 +1,18 @@
+it:
+  errors:
+    messages:
+      in_between: "deve essere compreso tra %{min} e %{max}"
+      spoofed_media_type: "possiede contenuti che non corrispondono all'estensione dichiarata"
+
+  number:
+    human:
+      storage_units:
+        format: "%n %u"
+        units:
+          byte:
+            one:   "Byte"
+            other: "Byte"
+          kb: "KB"
+          mb: "MB"
+          gb: "GB"
+          tb: "TB"
