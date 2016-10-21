@@ -1,0 +1,18 @@
+et:
+  errors:
+    messages:
+      in_between: "peab olema vahemikus %{min} kuni %{max}"
+      spoofed_media_type: "sisaldab failitüübile mittevastavat sisu"
+
+  number:
+    human:
+      storage_units:
+        format: "%n %u"
+        units:
+          byte:
+            one:   "bait"
+            other: "baiti"
+          kb: "KB"
+          mb: "MB"
+          gb: "GB"
+          tb: "TB"
