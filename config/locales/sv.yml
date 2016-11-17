@@ -1,0 +1,18 @@
+en:
+  errors:
+    messages:
+      in_between: "måste vara mellan %{min} och %{max}"
+      spoofed_media_type: "har innehåll som inte är vad det utger sig för att vara"
+
+  number:
+    human:
+      storage_units:
+        format: "%n %u"
+        units:
+          byte:
+            one:   "Byte"
+            other: "Bytes"
+          kb: "KB"
+          mb: "MB"
+          gb: "GB"
+          tb: "TB"
