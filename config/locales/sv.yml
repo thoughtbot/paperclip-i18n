@@ -1,4 +1,4 @@
-en:
+sv:
   errors:
     messages:
       in_between: "måste vara mellan %{min} och %{max}"
