@@ -1,8 +1,9 @@
 en:
   errors:
     messages:
-      in_between: "must be in between %{min} and %{max}"
+      in_between: "waarde moet tussen de %{min} en %{max} liggen"
       spoofed_media_type: "has contents that are not what they are reported to be"
+      spoofed_media_type: "heeft content die niet overeenkomt met wat is opgegeven"
 
   number:
     human:
