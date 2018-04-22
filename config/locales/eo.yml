@@ -1,0 +1,18 @@
+eo:
+  errors:
+    messages:
+      in_between: "debas esti inter %{min} kaj %{max}"
+      spoofed_media_type: "havas dosiernoman finaĵon kiu ne kongruas kun ĝia enhavo"
+
+  number:
+    human:
+      storage_units:
+        format: "%n %u"
+        units:
+          byte:
+            one:   "Bitoko"
+            other: "Bitokoj"
+          kb: "KB"
+          mb: "MB"
+          gb: "GB"
+          tb: "TB"
